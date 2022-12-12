@@ -2,6 +2,8 @@ book_filename: "bookdown-demo"
 language:
   ui:
     chapter_name: "Chapter "
+  label:
+    thm: 'Theorem. '
 delete_merged_file: true
 new_session: no
 rmd_subdir: chapters
